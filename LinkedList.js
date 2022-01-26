@@ -5,6 +5,8 @@ class Node {
          this.next = null
      }
  }
+
+ // best case is omega and worst case is theta
  
  class LinkedList {
      constructor(value) {
