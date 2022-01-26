@@ -6,7 +6,7 @@ class Node {
      }
  }
 
- // best case is omega and worst case is theta
+ // best case is omega and average case is theta and worst case is Big O
  
  class LinkedList {
      constructor(value) {
